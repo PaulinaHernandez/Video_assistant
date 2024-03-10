@@ -1,5 +1,5 @@
-##Video Assistant
-#Overview
+Video Assistant
+Overview
 
 Video Assistant is a Streamlit-based application designed to enhance your video watching experience by providing a comprehensive suite of tools that leverage the power of AI. It allows users to input a YouTube video link and offers the following features:
 
@@ -11,7 +11,7 @@ Video Assistant is a Streamlit-based application designed to enhance your video 
 This application is perfect for learners, researchers, and anyone looking to quickly grasp the essence of a video, understand its key terminology, or seek answers to specific questions.
 
 
-#Installation
+Installation
 
 Before running the application, ensure you have Python installed on your system. This project is built using Python 3.8 or newer.
 
