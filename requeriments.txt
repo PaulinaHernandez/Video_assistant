@@ -1,4 +1,5 @@
 python-dotenv
 youtube-transcript-api
-faiss-cpu
 streamlit
+dotenv
+google.generativeai
