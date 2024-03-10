@@ -1,5 +1,5 @@
-Video Assistant
-Overview
+##Video Assistant
+#Overview
 
 Video Assistant is a Streamlit-based application designed to enhance your video watching experience by providing a comprehensive suite of tools that leverage the power of AI. It allows users to input a YouTube video link and offers the following features:
 
@@ -11,13 +11,9 @@ Video Assistant is a Streamlit-based application designed to enhance your video 
 This application is perfect for learners, researchers, and anyone looking to quickly grasp the essence of a video, understand its key terminology, or seek answers to specific questions.
 
 
-Installation
+#Installation
 
 Before running the application, ensure you have Python installed on your system. This project is built using Python 3.8 or newer.
-
-    Clone the repository:
-
-    bash
 
 git clone <repository-url>
 cd <project-directory>
@@ -30,11 +26,8 @@ bash
 
     pip install -r requirements.txt
 
-Usage
 
 To start the application, run the following command in your terminal:
-
-bash
 
 streamlit run app.py
 
@@ -55,11 +48,10 @@ Configuration
 
 The application uses environmental variables to manage sensitive information such as API keys. Ensure you have a .env file in your project directory with the following content:
 
-vbnet
-
-KEY=<your-api-key>
+KEY= your-api-key
 
 Replace <your-api-key> with your actual API key for the services used by the application.
+
 Contributing
 
 Contributions to the Video Assistant project are welcome! Please refer to the CONTRIBUTING.md file for guidelines on how to make a contribution.
